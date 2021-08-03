@@ -1,0 +1,27 @@
+{
+  "name": "excellentbackground",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "excelbg": "bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terrible-Projects/excellentBackground.git"
+  },
+  "author": "SuperFire",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Terrible-Projects/excellentBackground/issues"
+  },
+  "homepage": "https://github.com/Terrible-Projects/excellentBackground#readme",
+  "dependencies": {
+    "@types/pngjs": "^6.0.1",
+    "exceljs": "^4.2.1",
+    "pngjs": "^6.0.0"
+  }
+}
